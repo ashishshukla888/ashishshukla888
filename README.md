@@ -16,7 +16,7 @@
 - 👯 I’m looking to collaborate on **Customer Churn Prediction**
 
 - 📫 How to reach me **https://www.linkedin.com/in/ashish-shukla-644721252/**
--                     **ashishshukla888.ak@gmail.com**
+-                     *ashishshukla888.ak@gmail.com*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
