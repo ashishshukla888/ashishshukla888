@@ -1,13 +1,11 @@
-
 ![logo](https://github.com/ashishshukla888/ashishshukla888/blob/main/My%20project-1.png)
 <h1 align="center">Hi 👋, I'm Ashish Kumar Shukla</h1>
 <h3 align="center">Unleashing the Power of Data,Driving Business Success through Data.</h3>
 
 # <img align="right" alt="Data Science" width = "400" src = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXMtJ3wNWn6hgip03n08WaTMqEa0Yd0RmNYA&usqp=CAU">
+<img align="center" alt="Data Science" width = "400">
 
-
-
-# <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashishshukla888&label=Profile%20views&color=0e75b6&style=flat" alt="ashishshukla888" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ashishshukla888&label=Profile%20views&color=0e75b6&style=flat" alt="ashishshukla888" /> </p>
 
 - 🔭 I’m currently working on **Predective Modeling**
 
