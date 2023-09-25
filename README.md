@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Ashish Kumar Shukla</h1>
 <h3 align="center">Unleashing the Power of Data,Driving Business Success through Data.</h3>
 
-<img align="right" alt="Data Science" width = "400" src = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXMtJ3wNWn6hgip03n08WaTMqEa0Yd0RmNYA&usqp=CAU">
+# <img align="right" alt="Data Science" width = "400" src = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXMtJ3wNWn6hgip03n08WaTMqEa0Yd0RmNYA&usqp=CAU">
 
 
 
